@@ -6,8 +6,14 @@ A modern, responsive creative-studio landing page created for Prodigy InfoTech T
 
 ### How to run
 Open the PRODIGY_WD_01 folder.
+
+
 Double-click index.html to open the website in a browser.
+
+
 Scroll through the page or use the navigation links to explore each section.
+
+
 No installation, framework, or build command is required.
 
 ### Included files
